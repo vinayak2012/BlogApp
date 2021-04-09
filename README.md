@@ -10,4 +10,4 @@ $ cd BlogApp
 $ npm start
 
 
-Go to localhost:5000 in your browser to try out the app
+Go to localhost:5000 in your browser
